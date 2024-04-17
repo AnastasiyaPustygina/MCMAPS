@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488873904942",
+    "project_id": "mymapsmcc",
+    "storage_bucket": "mymapsmcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488873904942:android:858362ca41fee4ebe8c8bf",
+        "android_client_info": {
+          "package_name": "com.blood_angel.mcmaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbsPDMYp0IYyHnV3rhOin_tvT7yisWpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
